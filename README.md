@@ -2,7 +2,7 @@
 🎮 Hangman Game (Python)
 
 A simple and beginner-friendly text-based Hangman game built in Python.
-The game randomly selects a word from a predefined list, and the player must guess the hidden word one letter at a time. You have 6 chances to guess wrong—after that, the game ends.
+The game randomly selects a word from a predefined list, and the player must guess the hidden word one letter at a time. You have 6 chances to guess wrong—after that, the game ends.This project developed as part of my internship at CodeAlpha.
 
 
 ---
