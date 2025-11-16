@@ -71,3 +71,7 @@ learning
 
 (You can edit the list anytime.)
 
+---
+📌 Author
+
+Vishakha Tamboli
