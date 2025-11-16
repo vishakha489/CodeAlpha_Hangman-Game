@@ -60,15 +60,15 @@ Loops, conditionals, lists, strings
 ---
 📝 Example Words Used
 
-apple
-
-banana
-
 python
 
-mango
+data
 
-orange
+science
+
+machine
+
+learning
 
 
 (You can edit the list anytime.)
