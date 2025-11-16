@@ -27,9 +27,7 @@ Beginner-friendly Python code
 
 🚀 How to Play
 
-1. Run the Python file:
-
-python hangman.py
+1. Run the Python file: python hangman-game.py
 
 
 2. The game will show blanks for a hidden word.
